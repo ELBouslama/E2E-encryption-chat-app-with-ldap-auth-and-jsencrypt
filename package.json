@@ -1,0 +1,25 @@
+{
+  "name": "passport-ldap-example",
+  "version": "1.0.0",
+  "description": "An example on use ldap-authentication and passport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jingshao Chen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-session": "^1.4.0",
+    "express": "^4.17.1",
+    "ldap-authentication": "^2.1.0",
+    "ldapjs": "^2.2.4",
+    "node-ssha256": "^0.1.1",
+    "passport": "^0.4.1",
+    "passport-custom": "^1.1.0",
+    "pug": "^3.0.1",
+    "socket.io": "2.0.3",
+    "uuid": "^8.3.2",
+    "vue": "^3.0.11"
+  }
+}
